@@ -1,2 +1,2 @@
-# FragmentForest
-Using Random Forest to predict chemical fragments from their properties
+# Fragment Forest
+Fragment Forest uses a random forest machine learning model that uses molecular properties to predict molecular fragments.
